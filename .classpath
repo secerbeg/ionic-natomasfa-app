@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="node_modules/cordova-android/framework/src"/>
+	<classpathentry kind="src" path="node_modules/cordova-android/spec/fixtures/org.test.plugins.dummyplugin/src/android"/>
+	<classpathentry kind="src" path="node_modules/cordova-android/spec/fixtures/org.test.plugins.faultyplugin/src/android"/>
+	<classpathentry kind="src" path="node_modules/cordova-android/test/app/src/androidTest/java"/>
+	<classpathentry kind="src" path="node_modules/cordova-android/test/app/src/main/java"/>
+	<classpathentry kind="src" path="node_modules/cordova-android/test/app/src/test/java"/>
+	<classpathentry kind="src" path="node_modules/cordova-plugin-ionic-webview/src/android"/>
+	<classpathentry kind="src" path="node_modules/properties-parser/test"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
